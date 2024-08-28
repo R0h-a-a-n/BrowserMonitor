@@ -44,3 +44,5 @@ def kill_firefox_processes():
 
 if __name__ == "__main__":
     monitor_firefox()
+
+# back to the past?
